@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import vm from 'node:vm';
+import {webcrypto} from 'node:crypto';
+import worker from '../dist/server/index.js';
+const site='https://film.example';
+test('home renders and unknown routes are 404',async()=>{const r=await worker.fetch(new Request(site));assert.equal(r.status,200);const html=await r.text();assert.ok(html.includes('电影品鉴官'));assert.ok(!html.includes('/*APP_SCRIPT*/'));assert.equal((await worker.fetch(new Request(site+'/missing'))).status,404)});
+test('AI rejects invalid providers and foreign origins before sending secrets',async()=>{for(const [body,origin,status] of [[{provider:'https://evil.test',apiKey:'secret',model:'m',prompt:'p'},site,400],[{},'https://evil.test',403]]){const r=await worker.fetch(new Request(site+'/api/organize',{method:'POST',headers:{Origin:origin},body:JSON.stringify(body)}));assert.equal(r.status,status);assert.ok(!(await r.text()).includes('secret'))}});
+test('upstream request uses fixed provider and returns only generated text',async()=>{const orig=globalThis.fetch;globalThis.fetch=async(url,init)=>{assert.equal(url,'https://api.deepseek.com/chat/completions');assert.equal(init.headers.Authorization,'Bearer test-key');return Response.json({choices:[{message:{content:'整理结果'}}]})};try{const r=await worker.fetch(new Request(site+'/api/organize',{method:'POST',body:JSON.stringify({provider:'deepseek',apiKey:'test-key',model:'deepseek-chat',prompt:'我的影评'})}));assert.deepEqual(await r.json(),{text:'整理结果'})}finally{globalThis.fetch=orig}});
+const code=fs.readFileSync('web/app.js','utf8');const context=vm.createContext({URL,crypto:webcrypto,Date});vm.runInContext(code.slice(code.indexOf('function safeURL'),code.indexOf('function notify')),context);
+test('import strips unsafe URLs and bounds ratings',()=>{const m=context.normalize({title:'测试',rating:99,resources:[{url:'javascript:alert(1)'},{url:'https://example.com/movie',code:'abcd'}]});assert.equal(m.rating,10);assert.equal(m.resources.length,1);assert.equal(m.resources[0].code,'abcd');assert.throws(()=>context.normalize({title:''}));assert.throws(()=>context.normalize({title:'a',resources:'bad'}))});

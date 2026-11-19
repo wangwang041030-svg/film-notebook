@@ -1,0 +1,3088 @@
+{
+  "schema_version": "1.1",
+  "created_on": "2026-11-19",
+  "source": {
+    "file_name": "电影群 03.xx-1119.mov",
+    "duration_seconds": 849.2483333333333,
+    "frame_size": [
+      568,
+      1204
+    ],
+    "method": "视频抽帧后人工视觉转录；6秒基础帧并补充变化帧、关键帧",
+    "coverage_note": "主聊天滚动大致为2026-02-21至2026-04-11；末尾包含后续月份的链接索引、文件索引与速存搜索结果，可见明确日期包括2026-11-14。不是完整聊天导出，快速滚动或未展开内容可能遗漏。",
+    "verification_note": "仅核对录屏可见文字，未访问网盘检查有效性、文件内容或画质。年份、更新集数、评价均按群消息当时内容记录。"
+  },
+  "summary": {
+    "movie_records": 103,
+    "records_with_links": 29,
+    "movie_resource_links": 30,
+    "collection_entries": 1,
+    "pending_items": 3
+  },
+  "movies": [
+    {
+      "id": "film-c9bcf96c087c",
+      "title": "寻秦记",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/2711e57209ff",
+          "code": "",
+          "quality": "",
+          "source_time": "00:00",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "00:00",
+      "source_notes": [
+        "群消息标注电影、速存；重复出现；未验证内容与有效性。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 0,
+          "source_time": "00:00",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-9ecba524b08d",
+      "title": "疯狂动物城2",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/06005a5fcfc6",
+          "code": "",
+          "quality": "",
+          "source_time": "00:24",
+          "verification": "reported_mismatch",
+          "transcription_confidence": "high",
+          "status_note": "群友反馈该链接好像仍为第一部，未独立验证。"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "00:24",
+      "source_notes": [
+        "群内求片后的资源分享。",
+        "群友反馈该链接好像仍为第一部，未独立验证。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 24,
+          "source_time": "00:24",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-7cf5a29625c0",
+      "title": "极限审判",
+      "year": 2026,
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/34b1c06e76cc",
+          "code": "",
+          "quality": "",
+          "source_time": "00:36",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "00:36",
+      "source_notes": [
+        "画面可见 Mercy (2026)；群友评价“不错的片子”。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 36,
+          "source_time": "00:36",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-e2dc8835ea02",
+      "title": "镖人：风起大漠",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "00:42",
+      "source_notes": [
+        "海报和票房讨论；本处未见完整资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 42,
+          "source_time": "00:42",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-abb9a4b9aba5",
+      "title": "七王国的骑士",
+      "year": "",
+      "media_type": "剧集",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/2dd8faab2c23",
+          "code": "",
+          "quality": "",
+          "source_time": "01:12",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "01:12",
+      "source_notes": [
+        "群消息标注“完结”“更新至06”，权游衍生剧前传。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 72,
+          "source_time": "01:12",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-dc791c7cdba5",
+      "title": "The Bluff",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "01:48",
+      "source_notes": [
+        "仅见海报和“美国动作片上线了，不错”的群友推荐，中文名未确认。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 108,
+          "source_time": "01:48",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [
+        "与悬崖绝壁可能是同片，待核实后合并"
+      ],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-930da67c3bd2",
+      "title": "除恶",
+      "year": "",
+      "media_type": "剧集",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/041f5703b6fd",
+          "code": "",
+          "quality": "",
+          "source_time": "01:54",
+          "verification": "reported_unavailable",
+          "transcription_confidence": "high",
+          "status_note": "群友反馈失效了哦，未独立验证。"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "01:54",
+      "source_notes": [
+        "引用消息可见“除恶 首播5集”；群友说“失效了哦”，保留历史失效报告。",
+        "群友反馈失效了哦，未独立验证。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 114,
+          "source_time": "01:54",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-a6b50c7574eb",
+      "title": "飞驰人生3",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "02:18",
+      "source_notes": [
+        "仅有群内讨论，未见本处完整资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 138,
+          "source_time": "02:18",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-784e614e1692",
+      "title": "辣身舞",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "02:48",
+      "source_notes": [
+        "画面展示 Dirty Dancing 海报和简介；未见链接；介绍中的年份、评分未外部核验。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 168,
+          "source_time": "02:48",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-7460a9433db7",
+      "title": "夜王",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "02:54",
+      "source_notes": [
+        "海报及群友推荐；本处未见完整链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 174,
+          "source_time": "02:54",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-6d296e9b83f8",
+      "title": "过春天",
+      "year": 2018,
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c281b73e112b",
+          "code": "",
+          "quality": "4K 高码 国语中字 17.1G",
+          "source_time": "03:48",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "03:48",
+      "source_notes": [
+        "群消息标注国影、黄尧；画面另有其他平台链接，易混字符留待核对。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 228,
+          "source_time": "03:48",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-c8a8573ee10a",
+      "title": "侵略机器",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/3b0ddcb06f4a",
+          "code": "",
+          "quality": "",
+          "source_time": "04:36",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        },
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c4e58425b6de",
+          "code": "",
+          "quality": "",
+          "source_time": "04:16",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "04:36",
+      "source_notes": [
+        "消息称新科幻动作片；仅从画面抄录。",
+        "群友回复“下载吧，我看着不是枪版”；这是群友判断，未验证画质。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 276,
+          "source_time": "04:36",
+          "kind": "screen_recording"
+        },
+        {
+          "video_seconds": 256,
+          "source_time": "04:16",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-83a53d45df28",
+      "title": "肖申克的救赎",
+      "year": 1994,
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "04:54",
+      "source_notes": [
+        "仅见豆瓣截图；外文标题 The Shawshank Redemption，未见资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 294,
+          "source_time": "04:54",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-a3c5bbc70f28",
+      "title": "呼啸山庄",
+      "year": 2026,
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/0f3b3b360bc3",
+          "code": "",
+          "quality": "韩版硬字幕",
+          "source_time": "05:00",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "05:00",
+      "source_notes": [
+        "群消息标注玛格特·罗比主演；群友评价改编不错，也有不同感受。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 300,
+          "source_time": "05:00",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-e9a87b10943d",
+      "title": "帝王计划：怪兽遗产 第二季",
+      "year": "",
+      "media_type": "剧集",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/d07efaeca91b",
+          "code": "",
+          "quality": "",
+          "source_time": "05:48",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "05:48",
+      "source_notes": [
+        "更新至03，含第一季；按群消息当时进度记录。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 348,
+          "source_time": "05:48",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-7da96f1c5083",
+      "title": "匹兹堡医护前线 第二季",
+      "year": "",
+      "media_type": "剧集",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/2af8693e3b5f",
+          "code": "",
+          "quality": "",
+          "source_time": "05:54",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "05:54",
+      "source_notes": [
+        "更新至10，含第一季；按群消息当时进度记录。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 354,
+          "source_time": "05:54",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-1995375b10ff",
+      "title": "罪人",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "06:18",
+      "source_notes": [
+        "仅见获奖与演员讨论，未见完整资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 378,
+          "source_time": "06:18",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-d795d561a131",
+      "title": "一战再战",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "06:18",
+      "source_notes": [
+        "06:20群内奖项清单明确显示一战再战。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 378,
+          "source_time": "06:18",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-d2580ae09223",
+      "title": "飞行家",
+      "year": 2025,
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/f84ce092bec9",
+          "code": "",
+          "quality": "",
+          "source_time": "06:48",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "06:48",
+      "source_notes": [
+        "截图标题飞行家（2025），链接在06:50确认；群友称蒋奇明很不错。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 408,
+          "source_time": "06:48",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-6692a248dd1a",
+      "title": "色即是空",
+      "year": 2002,
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "06:54",
+      "source_notes": [
+        "仅见韩文海报与豆瓣截图，未见链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 414,
+          "source_time": "06:54",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-8d7999c52e2b",
+      "title": "密探",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "07:18",
+      "source_notes": [
+        "公众号文章卡片《密探》：当恐惧失去面目，怪物便由此诞生；未展开链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 438,
+          "source_time": "07:18",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-11a00917adda",
+      "title": "挽救计划",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "07:30",
+      "source_notes": [
+        "仅有群内推荐及与星际穿越的比较，未确认关联资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 450,
+          "source_time": "07:30",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-db9c8aba271e",
+      "title": "星际穿越",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "07:30",
+      "source_notes": [
+        "仅见群内对比评价；未见关联资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 450,
+          "source_time": "07:30",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-04c7351cd608",
+      "title": "食贫道：关于电闸、柬埔寨的纪录片",
+      "year": "",
+      "media_type": "纪录片",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/0c15f6cc20e3",
+          "code": "",
+          "quality": "4K+1080p 13.4G",
+          "source_time": "07:42",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "07:42",
+      "source_notes": [
+        "按群消息描述保留标题，正式片名未确认。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 462,
+          "source_time": "07:42",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [
+        "片名、同名版本或合集范围需核对"
+      ],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-b67ce9731a2b",
+      "title": "阿凡达3",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/d6634583ced2",
+          "code": "",
+          "quality": "4K",
+          "source_time": "10:00",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "10:00",
+      "source_notes": [
+        "群消息写“阿凡达3 更新4K”；分享文案用“阿F达三”，内容未验证。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 600,
+          "source_time": "10:00",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-d1b90deb596d",
+      "title": "夜魔侠：重生 第二季",
+      "year": "",
+      "media_type": "剧集",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/12a8e9cc1631",
+          "code": "",
+          "quality": "",
+          "source_time": "10:18",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "10:18",
+      "source_notes": [
+        "更新至03，含第一季。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 618,
+          "source_time": "10:18",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-4e521f50c8f7",
+      "title": "暗黑新娘",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "10:30",
+      "source_notes": [
+        "仅有准备在家观看的讨论；无可确认链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 630,
+          "source_time": "10:30",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-5eccb2529c60",
+      "title": "天注定",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "11:12",
+      "source_notes": [
+        "群内讨论片名，未见资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 672,
+          "source_time": "11:12",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-9b39164471cf",
+      "title": "亲切的金子",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "11:12",
+      "source_notes": [
+        "群内讨论片名，未见资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 672,
+          "source_time": "11:12",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-3033a4bc5288",
+      "title": "颐和园",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "11:18",
+      "source_notes": [
+        "群内推荐片名，未见资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 678,
+          "source_time": "11:18",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-a1871d45536f",
+      "title": "红辣椒",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "12:18",
+      "source_notes": [
+        "群友称丁度导演；同名电影有歧义，按原文保留，未见链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 738,
+          "source_time": "12:18",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [
+        "片名、同名版本或合集范围需核对"
+      ],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-d0210f224726",
+      "title": "我们仅有一次的人生",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "12:48",
+      "source_notes": [
+        "微信公众号文章标题可见；未展开卡片、未显示完整文章网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 768,
+          "source_time": "12:48",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-779645f1bccc",
+      "title": "蒸蒸日上",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "12:48",
+      "source_notes": [
+        "微信链接列表卡片显示片名与“豆瓣评分7.8…”；无可恢复完整网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 768,
+          "source_time": "12:48",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-7c14268e7d59",
+      "title": "无耻之徒（1—11季）",
+      "year": "",
+      "media_type": "剧集",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "12:48",
+      "source_notes": [
+        "网盘卡片标题“W-wu耻之徒 (1-11季…)”，显示157GB；标题规范化需核对，网址未展示。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 768,
+          "source_time": "12:48",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [
+        "片名、同名版本或合集范围需核对"
+      ],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-4205e4ea1fad",
+      "title": "重生2",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "12:54",
+      "source_notes": [
+        "文章标题《重生2》：管杀不管理，管打不管生；未展开正文。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 774,
+          "source_time": "12:54",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-ab66b32889d2",
+      "title": "生化危机：爆发夜",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:00",
+      "source_notes": [
+        "列表中有内地定档新闻，群置顶也提到速存；未展示完整资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 780,
+          "source_time": "13:00",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-478698e7727f",
+      "title": "神探之痕迹",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:00",
+      "source_notes": [
+        "公众号文章卡片可见，未显示完整文章链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 780,
+          "source_time": "13:00",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-93fb35f92919",
+      "title": "空枪",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:06",
+      "source_notes": [
+        "文章标题《空枪》：一把没子弹的枪，打穿了…；未展开。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 786,
+          "source_time": "13:06",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-788a1b05a428",
+      "title": "北回归线以北",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:12",
+      "source_notes": [
+        "公众号文章卡片《北回归线以北》：只见天地，不见…；未展开。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 792,
+          "source_time": "13:12",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-c606f8fb9a89",
+      "title": "痴迷",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:12",
+      "source_notes": [
+        "公众号文章与后续“速存”搜索结果均出现；搜索结果网址被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 792,
+          "source_time": "13:12",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-f4d9fd5d19b8",
+      "title": "特立独行",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:12",
+      "source_notes": [
+        "公众号文章与后续9月7日“流媒体正式版，速存”搜索结果出现；网址被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 792,
+          "source_time": "13:12",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-dac550d9ef15",
+      "title": "监狱来的妈妈",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:18",
+      "source_notes": [
+        "多个新闻卡片提到片名；未见电影资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 798,
+          "source_time": "13:18",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-8201a19f2959",
+      "title": "年会不能停2",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:54",
+      "source_notes": [
+        "9月18日速存搜索结果多次出现；网址被省略，不能恢复。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 834,
+          "source_time": "13:54",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-1e11c753b33f",
+      "title": "玩具总动员5",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:54",
+      "source_notes": [
+        "8月18日速存搜索结果多次出现；网址被省略，不能恢复。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 834,
+          "source_time": "13:54",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-47aa6c8e4a88",
+      "title": "森中有林",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "14:00",
+      "source_notes": [
+        "6月29日搜索结果写4K、速存；链接被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 840,
+          "source_time": "14:00",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-d1ad22086fb8",
+      "title": "诺曼底72小时",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "14:00",
+      "source_notes": [
+        "6月16日搜索结果写豆瓣8.2；链接被省略，评分未外部验证。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 840,
+          "source_time": "14:00",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-587e916099b2",
+      "title": "惊蛰无声",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "14:00",
+      "source_notes": [
+        "5月22日搜索结果可见速存，链接被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 840,
+          "source_time": "14:00",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-0c5b98783a2c",
+      "title": "用武之地",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/4071f210077d",
+          "code": "",
+          "quality": "",
+          "source_time": "04:14",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "14:06",
+      "source_notes": [
+        "3月6日搜索结果可见速存，链接被省略。",
+        "分享文案写“Y-武-之-地”；未验证视频内容。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 846,
+          "source_time": "14:06",
+          "kind": "screen_recording"
+        },
+        {
+          "video_seconds": 254,
+          "source_time": "04:14",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-05ba4828027c",
+      "title": "火线",
+      "year": "",
+      "media_type": "剧集",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "00:56",
+      "source_notes": [
+        "群内推荐美剧，共五季；未显示资源地址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 56,
+          "source_time": "00:56",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-710db22c401e",
+      "title": "庇护之地",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/1387aecdf15a",
+          "code": "",
+          "quality": "",
+          "source_time": "01:38",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "01:38",
+      "source_notes": [
+        "群消息写郭达斯坦森主演动作片；分享文案写“庇护Z地”。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 98,
+          "source_time": "01:38",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-3c442a3cd453",
+      "title": "狂野时代",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/186e0f0a3da2",
+          "code": "",
+          "quality": "",
+          "source_time": "01:44",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "01:44",
+      "source_notes": [
+        "群内讨论称偏文艺；分享文案用“K狂野時代”。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 104,
+          "source_time": "01:44",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-b50c4186ab07",
+      "title": "悬崖绝壁",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/a635a8e213e0",
+          "code": "",
+          "quality": "",
+          "source_time": "01:59",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "01:58",
+      "source_notes": [
+        "资源分享标题可见，链接被画面裁切，需补帧。",
+        "完整链接在补帧确认；与英文海报 The Bluff 相邻，别名关系待核。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 118,
+          "source_time": "01:58",
+          "kind": "screen_recording"
+        },
+        {
+          "video_seconds": 119,
+          "source_time": "01:59",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-37396fe4a03b",
+      "title": "美丽毒素",
+      "year": "",
+      "media_type": "剧集",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/8789ab2095e4",
+          "code": "",
+          "quality": "",
+          "source_time": "02:04",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "02:04",
+      "source_notes": [
+        "更新至09；群消息重复三次。",
+        "后续消息标注全11集、完结；与前面的更新至09同一链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 124,
+          "source_time": "02:04",
+          "kind": "screen_recording"
+        },
+        {
+          "video_seconds": 250,
+          "source_time": "04:10",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-e38cd0ae4d8d",
+      "title": "卡罗尔",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c57dc1f020cd",
+          "code": "",
+          "quality": "",
+          "source_time": "02:08",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "02:08",
+      "source_notes": [
+        "群消息标注凯特布兰切特主演、完整版；不据此推断文件内容。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 128,
+          "source_time": "02:08",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-f9ddbd0b532a",
+      "title": "洛杉矶劫案",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "02:14",
+      "source_notes": [
+        "仅见海报，未见链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 134,
+          "source_time": "02:14",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-9571a9b39cf8",
+      "title": "至尊马蒂",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "02:16",
+      "source_notes": [
+        "仅见 Marty Supreme 海报，未见链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 136,
+          "source_time": "02:16",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-2f612b3dece9",
+      "title": "匿杀",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/b13e35d4494d",
+          "code": "",
+          "quality": "",
+          "source_time": "02:52",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "02:52",
+      "source_notes": [
+        "分享文案写“NIS”，同条末尾标注“匿杀”。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 172,
+          "source_time": "02:52",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-f45db2370fb0",
+      "title": "时空奇旅",
+      "year": 2025,
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/4cd6b35905d5",
+          "code": "",
+          "quality": "4K高码+1080P",
+          "source_time": "02:57",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "02:56",
+      "source_notes": [
+        "原文 Arco (2025)，4K高码+1080P、内封简中字+内嵌中英双字、科幻/动画；本帧未显示网址。",
+        "前一帧标题 Arco（2025）；内封简中字、内嵌中英双字。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 176,
+          "source_time": "02:56",
+          "kind": "screen_recording"
+        },
+        {
+          "video_seconds": 177,
+          "source_time": "02:57",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-440f3de2332b",
+      "title": "冰冷热带鱼",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "03:58",
+      "source_notes": [
+        "群友明确推荐“经典重温”“好看的”；未显示完整资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 238,
+          "source_time": "03:58",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-55aa55fcd61b",
+      "title": "风的气息",
+      "year": 2022,
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/7936c159967c",
+          "code": "",
+          "quality": "",
+          "source_time": "04:50",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "04:50",
+      "source_notes": [
+        "群友称伊朗版《隐入尘烟》；豆瓣截图显示2022；画面另有其他平台链接，易混字符留待核对。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 290,
+          "source_time": "04:50",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-f35b4519438e",
+      "title": "局外人",
+      "year": 2025,
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e915bbd7d376",
+          "code": "",
+          "quality": "",
+          "source_time": "04:52",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "04:52",
+      "source_notes": [
+        "群消息称欧容导演、加缪同名小说改编；画面另有其他平台链接，易混字符留待核对。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 292,
+          "source_time": "04:52",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-a6ac30ab7fbe",
+      "title": "哈姆奈特",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "06:20",
+      "source_notes": [
+        "仅见群内奖项清单提及，未显示资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 380,
+          "source_time": "06:20",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-01e611d785b3",
+      "title": "凶器",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "06:20",
+      "source_notes": [
+        "仅见群内奖项清单提及，未显示资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 380,
+          "source_time": "06:20",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-44b378fbad22",
+      "title": "情感价值",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "06:20",
+      "source_notes": [
+        "仅见群内奖项清单提及，未显示资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 380,
+          "source_time": "06:20",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-415d9a2aa45e",
+      "title": "K-POP：猎魔女团",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "06:20",
+      "source_notes": [
+        "仅见群内奖项清单提及，未显示资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 380,
+          "source_time": "06:20",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-3f2df2022b63",
+      "title": "Mr Nobody Against Putin",
+      "year": "",
+      "media_type": "纪录片",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "06:26",
+      "source_notes": [
+        "仅见英文海报，未显示资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 386,
+          "source_time": "06:26",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-182b6e61ce0e",
+      "title": "JOJO的奇妙冒险 飙马野郎",
+      "year": 2026,
+      "media_type": "动漫",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "07:02",
+      "source_notes": [
+        "群引用消息标注2026-03-19开播；未见完整资源网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 422,
+          "source_time": "07:02",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-c0a1c765d1db",
+      "title": "招魂APP",
+      "year": 2026,
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "07:08",
+      "source_notes": [
+        "群内介绍韩国恐怖片，未见完整资源网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 428,
+          "source_time": "07:08",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-26dd33434664",
+      "title": "疯狂的果实",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "07:28",
+      "source_notes": [
+        "同名版本待核，未采用未确认来源的播放地址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 448,
+          "source_time": "07:28",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [
+        "片名、同名版本或合集范围需核对"
+      ],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-4016ea834cbe",
+      "title": "逐玉",
+      "year": 2026,
+      "media_type": "剧集",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c92db1139fb4#/list/share",
+          "code": "",
+          "quality": "4K",
+          "source_time": "07:34",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "07:34",
+      "source_notes": [
+        "标题明确：国剧逐玉，更新至40集完结，和谐不补；链接有效性未验证。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 454,
+          "source_time": "07:34",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-6ca45652fa34",
+      "title": "闪灵",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "08:16",
+      "source_notes": [
+        "群友重看讨论，未见资源网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 496,
+          "source_time": "08:16",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-5168391f3729",
+      "title": "请求支援",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/257c5fd984cf",
+          "code": "",
+          "quality": "",
+          "source_time": "08:56",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "08:56",
+      "source_notes": [
+        "群消息称山姆雷米恐怖片、流媒体正式版、7.0分，均为群内说法。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 536,
+          "source_time": "08:56",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-2ac2e8cef7c2",
+      "title": "火遮眼",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "09:44",
+      "source_notes": [
+        "群内推荐；后续7月7日速存搜索结果出现，完整链接被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 584,
+          "source_time": "09:44",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-ecf5cd9aaa01",
+      "title": "黑袍纠察队 第五季",
+      "year": "",
+      "media_type": "剧集",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c4db76807152",
+          "code": "",
+          "quality": "",
+          "source_time": "11:26",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "11:26",
+      "source_notes": [
+        "群消息分享第五季；搜索结果4月29日另有更新至第五集，非当前实时进度。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 686,
+          "source_time": "11:26",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-fd2b3e009dab",
+      "title": "黑袍纠察队（1—4季＋劣迹）",
+      "year": "",
+      "media_type": "合集",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c94aa3e69a3a",
+          "code": "",
+          "quality": "",
+          "source_time": "11:26",
+          "verification": "not_checked",
+          "transcription_confidence": "high"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "11:26",
+      "source_notes": [
+        "按原文保留合集范围；不代表已核对目录内容。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 686,
+          "source_time": "11:26",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-3e9a2ba4b968",
+      "title": "群体",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "11:58",
+      "source_notes": [
+        "群置顶称釜山行导演新丧尸片，未见完整网址，片名需进一步核对。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 718,
+          "source_time": "11:58",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [
+        "片名、同名版本或合集范围需核对"
+      ],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-588a5e3aa93f",
+      "title": "黑暗骑士",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "12:04",
+      "source_notes": [
+        "群聊讨论重映、与黑暗骑士崛起区别；未见资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 724,
+          "source_time": "12:04",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-e815c229edfd",
+      "title": "狂鲨风暴",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [
+        {
+          "label": "百度网盘",
+          "url": "https://pan.baidu.com/s/1-vvdIIrzX_6J91EdsokpAg?pwd=geu5",
+          "code": "geu5",
+          "quality": "",
+          "source_time": "12:34",
+          "verification": "not_checked",
+          "transcription_confidence": "medium"
+        }
+      ],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "12:34",
+      "source_notes": [
+        "原文英文 Thrash；提取码清晰，地址按截图抄录，未访问验证。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 754,
+          "source_time": "12:34",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "has_link"
+    },
+    {
+      "id": "film-a8fe974657d7",
+      "title": "珠穆朗玛：云中彼岸",
+      "year": "",
+      "media_type": "纪录片",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "12:46",
+      "source_notes": [
+        "只见纪录电影新闻卡片，未打开文章。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 766,
+          "source_time": "12:46",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-e2017cc0b5cd",
+      "title": "麻将女王",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "12:46",
+      "source_notes": [
+        "只见文章卡片，未显示资源网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 766,
+          "source_time": "12:46",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-7dca7922792e",
+      "title": "深渊无间",
+      "year": "",
+      "media_type": "剧集",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:02",
+      "source_notes": [
+        "只见大结局相关文章标题，未显示完整网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 782,
+          "source_time": "13:02",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-a419944d0c37",
+      "title": "给阿嬷的情书",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:04",
+      "source_notes": [
+        "多条文章卡片出现；只记录片名，不恢复文章或资源网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 784,
+          "source_time": "13:04",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-2e7283a9595f",
+      "title": "脱友3",
+      "year": "",
+      "media_type": "综艺",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:04",
+      "source_notes": [
+        "文章标题可见，非电影，分类为综艺。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 784,
+          "source_time": "13:04",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-00683cae03c1",
+      "title": "哪吒之魔童闹海",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:08",
+      "source_notes": [
+        "只见电影获奖新闻卡片，未显示完整资源网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 788,
+          "source_time": "13:08",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-a2f0fe84654b",
+      "title": "八仙！",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:10",
+      "source_notes": [
+        "多条新闻与解读卡片；11月6日速存搜索结果出现，资源网址被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 790,
+          "source_time": "13:10",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-efee69d55693",
+      "title": "10间敢死队",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:14",
+      "source_notes": [
+        "文章卡片及7月17日4K速存搜索结果，网址被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 794,
+          "source_time": "13:14",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-494d94547013",
+      "title": "木乃伊",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:16",
+      "source_notes": [
+        "文章标题提及，版本年份无法确认，需人工核对。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 796,
+          "source_time": "13:16",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [
+        "片名、同名版本或合集范围需核对"
+      ],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-ab1e695e4203",
+      "title": "赛德克·巴莱",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:16",
+      "source_notes": [
+        "卡片提及观看团活动；未显示资源链接。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 796,
+          "source_time": "13:16",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-59bc06ec1c0a",
+      "title": "寒战1994",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:20",
+      "source_notes": [
+        "影评卡片与7月24日速存搜索结果，完整网址被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 800,
+          "source_time": "13:20",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-daab3f5d0521",
+      "title": "像我这样的爱情",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:20",
+      "source_notes": [
+        "网盘分享卡片标题可见，显示1.84GB；完整网址未展示。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 800,
+          "source_time": "13:20",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-05ee3b302cdc",
+      "title": "封神3",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:20",
+      "source_notes": [
+        "仅见后期制作新闻卡片，不能据此认定已有片源。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 800,
+          "source_time": "13:20",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-5839015691fd",
+      "title": "搜查瑠公圳",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:22",
+      "source_notes": [
+        "仅见影评卡片标题，未打开网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 802,
+          "source_time": "13:22",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-983a4ab13ace",
+      "title": "蜂蜜的针",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:22",
+      "source_notes": [
+        "仅见影评卡片标题，未打开网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 802,
+          "source_time": "13:22",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-5828022ba452",
+      "title": "情书",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:38",
+      "source_notes": [
+        "群友对比怦然心动的观感；原文评价留在来源笔记，不视为用户影评。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 818,
+          "source_time": "13:38",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-17597763d38f",
+      "title": "怦然心动",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:38",
+      "source_notes": [
+        "群聊中与情书比较；未显示资源网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 818,
+          "source_time": "13:38",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-f690c4e67a15",
+      "title": "复仇者联盟4",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:40",
+      "source_notes": [
+        "群友谈观看感受；未显示资源网址。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 820,
+          "source_time": "13:40",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-1fd94f565d93",
+      "title": "坠落2：死点",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:52",
+      "source_notes": [
+        "10月6日速存搜索结果，地址被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 832,
+          "source_time": "13:52",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-9ebdf528c094",
+      "title": "蜘蛛侠：崭新之日",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:52",
+      "source_notes": [
+        "10月5日速存搜索结果，地址被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 832,
+          "source_time": "13:52",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-e6a6cf150ec4",
+      "title": "功夫女足",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "13:52",
+      "source_notes": [
+        "10月3日速存搜索结果，地址被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 832,
+          "source_time": "13:52",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-dceff43d1726",
+      "title": "真人快打2",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "14:02",
+      "source_notes": [
+        "5月18日速存搜索结果，地址被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 842,
+          "source_time": "14:02",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-bcd5accb0996",
+      "title": "星河入梦",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "14:02",
+      "source_notes": [
+        "5月2日速存搜索结果，地址被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 842,
+          "source_time": "14:02",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-b6b6a635bb0c",
+      "title": "马腾你别走",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "14:04",
+      "source_notes": [
+        "3月27日流媒体正式版速存搜索结果，地址被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 844,
+          "source_time": "14:04",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    },
+    {
+      "id": "film-0120d12ac4f9",
+      "title": "浴血黑帮不朽传奇",
+      "year": "",
+      "media_type": "电影",
+      "genre": "未分类",
+      "status": "library",
+      "rating": 0,
+      "review": "",
+      "resources": [],
+      "source_video": "电影群 03.xx-1119.mov",
+      "source_time": "14:04",
+      "source_notes": [
+        "3月20日速存搜索结果，按画面标题保留，地址被省略。"
+      ],
+      "evidence": [
+        {
+          "video_seconds": 844,
+          "source_time": "14:04",
+          "kind": "screen_recording"
+        }
+      ],
+      "needs_review": [],
+      "sample": false,
+      "resource_status": "missing_link"
+    }
+  ],
+  "resource_collections": [
+    {
+      "title": "近期热门资源汇总-FIB",
+      "url": "https://www.kdocs.cn/l/cu6b3XpnRxvw",
+      "source_time": "01:18",
+      "verification": "not_checked",
+      "source_notes": "文档索引入口，未打开文档读取内容。"
+    }
+  ],
+  "pending_items": [
+    {
+      "title_as_read": "贾特朋兄：逆缘行者 第一季",
+      "reason": "片名未确认或网址缺少明确对应片名",
+      "source_time": "12:54",
+      "url_as_read": "",
+      "source_notes": "列表卡片标题“贾特朋兄：逆缘行者 第一季 全10…”；仅卡片标题，片名待核。"
+    },
+    {
+      "title_as_read": "牛来",
+      "reason": "片名未确认或网址缺少明确对应片名",
+      "source_time": "13:06",
+      "url_as_read": "",
+      "source_notes": "列表中有多篇相关影评与解说卡片，未展示完整网址。"
+    },
+    {
+      "title_as_read": "未确认片名的资源（8月11日）",
+      "reason": "片名未确认或网址缺少明确对应片名",
+      "source_time": "13:54",
+      "url_as_read": "https://pan.quark.cn/s/631faecbb533",
+      "source_notes": "仅搜索结果显示完整地址，未显示片名；禁止猜测关联。"
+    }
+  ],
+  "import_notes": [
+    "movies数组兼容电影手记v1导入。",
+    "review为空，rating为0，status为library，群友评论只写入source_notes，不视为个人观后感。",
+    "resource_collections是资源索引入口，不要当成AI整理手记collections。",
+    "pending_items禁止自动猜片名、禁止按截断地址补全。",
+    "追加文件夹时优先按完整资源URL去重，再按片名和年份合并；不能覆盖个人review/rating/status。"
+  ]
+}
